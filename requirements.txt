@@ -1,0 +1,12 @@
+langchain-openai
+langchain
+pandas
+numpy
+langchain
+langchain_community
+python-dotenv
+langchain_core
+streamlit
+langchain_groq
+pypdf
+faiss-cpu
